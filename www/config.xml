@@ -8,13 +8,22 @@
         Nitrous.IO
     </author>
     <content src="index.html" />
+    
     <access origin="*" />
+    
+   
+    
     <preference name="webviewbounce" value="false" />
     <preference name="UIWebViewBounce" value="false" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="DisallowOverscroll" value="true" />
-    <gap:plugin name="org.apache.cordova.splashscreen" />
     <preference name="splashscreen" value="foo"/>
+    <preference name="auto-hide-splash-screen"    value="true" /> 
+    
+   
+   
+   <!-- core plugin -->
+    <gap:plugin name="org.apache.cordova.splashscreen" />
    
    
   </widget>
