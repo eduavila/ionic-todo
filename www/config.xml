@@ -20,7 +20,7 @@
     <preference name="splashscreen" value="true"/>
    
     
-   
+    <gap:plugin name="org.apache.cordova.splashscreen" />
    
   
    
