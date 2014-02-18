@@ -22,8 +22,7 @@
     
    
    
-   <!-- core plugin -->
-    <gap:plugin name="org.apache.cordova.splashscreen" />
+  
    
    
   </widget>
